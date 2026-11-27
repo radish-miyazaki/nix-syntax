@@ -33,7 +33,7 @@ To use the library in a dune project, add it to `libraries`.
  (libraries nix-syntax))
 ```
 
-The API documentation is on [ocaml.org](https://ocaml.org/p/nix-syntax).
+The API documentation is on [ocaml.org](https://ocaml.org/p/nix-syntax/latest/doc/index.html).
 
 ## Usage
 
